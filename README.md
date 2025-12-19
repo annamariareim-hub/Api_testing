@@ -3,7 +3,7 @@
 1) I tested all methods that are provided for https://intern.demoshopping.ru/ in Postman and created the corresponding collections:
  <ul>
 <li>  <a href="https://github.com/annamariareim-hub/api-testing-postman/blob/main/DemoShopping.postman_collection.json">Postamn collection for the demoshopping: REST</a>  </li>
-<li>  <a href="https://docs.google.com/spreadsheets/d/1RKLYkgBhT2hZTRlaVzODNgBoQfo6MHGtl6X7Zc5v8uU/edit?usp=sharing"> Test cases for "store" block </a>   </li>
+<li>  <a href="https://github.com/annamariareim-hub/api-testing-postman/blob/main/ISO%20code%20SOAP.postman_collection.json"> ISO code SOAP </a>   </li>
 </ul>
 
 2) Using the following <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>, I created a working collection in Postman that can be used to determine: a country's currency, full country information, and country specific language information: 
