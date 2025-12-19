@@ -2,7 +2,7 @@
 
 1) I tested all methods that are provided for https://intern.demoshopping.ru/ in Postman and created the corresponding collections:
  <ul>
-<li>  <a href="https://klykva-2571970.postman.co/workspace/My-Workspace~dbabdac3-aedd-4d2c-8e79-93168f6dc8cf/collection/43532503-b4471866-6647-45f3-8808-caeb3be08675?action=share&creator=43615988">Postamn collection for the petstore: REST</a>  </li>
+<li>  <a href="https://github.com/annamariareim-hub/api-testing-postman/blob/main/DemoShopping.postman_collection.json">Postamn collection for the petstore: REST</a>  </li>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1RKLYkgBhT2hZTRlaVzODNgBoQfo6MHGtl6X7Zc5v8uU/edit?usp=sharing"> Test cases for "store" block </a>   </li>
 </ul>
 
